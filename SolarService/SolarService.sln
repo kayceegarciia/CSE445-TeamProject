@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarService", "SolarService\SolarService.csproj", "{5607339F-EB93-42F8-861D-17C9DAD8BBA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarServiceApp", "ExpenseTrackerApp\SolarServiceApp.csproj", "{F10B6094-F86A-4058-BD78-9390158EAE74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarUtils", "SolarUtils\SolarUtils.csproj", "{967E1821-7856-4530-8F04-FA375EB82F99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5607339F-EB93-42F8-861D-17C9DAD8BBA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5607339F-EB93-42F8-861D-17C9DAD8BBA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5607339F-EB93-42F8-861D-17C9DAD8BBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5607339F-EB93-42F8-861D-17C9DAD8BBA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F10B6094-F86A-4058-BD78-9390158EAE74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10B6094-F86A-4058-BD78-9390158EAE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10B6094-F86A-4058-BD78-9390158EAE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10B6094-F86A-4058-BD78-9390158EAE74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{967E1821-7856-4530-8F04-FA375EB82F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{967E1821-7856-4530-8F04-FA375EB82F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{967E1821-7856-4530-8F04-FA375EB82F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{967E1821-7856-4530-8F04-FA375EB82F99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

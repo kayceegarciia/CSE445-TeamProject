@@ -1,0 +1,12 @@
+.vs/
+*.user
+*.suo
+[Bb]in/
+[Oo]bj/
+packages/
+.idea/
+Thumbs.db
+.DS_Store
+*.log
+*.tmp
+!App_Data/*.xml
